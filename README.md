@@ -9,3 +9,7 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 ## Knowledge Gained
 
 Task 3 enriched my expertise in building decision tree classifiers for predictive modeling tasks and understanding how demographic and behavioral data influence customer purchasing decisions.
+
+##  Output:
+
+[Output](https://github.com/piscongentine/PRODIGY_DS_3/blob/main/Screenshot%202025-01-28%20223901.png}
