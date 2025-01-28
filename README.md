@@ -12,4 +12,4 @@ Task 3 enriched my expertise in building decision tree classifiers for predictiv
 
 ##  Output:
 
-[Output](https://github.com/piscongentine/PRODIGY_DS_3/blob/main/Screenshot%202025-01-28%20223901.png}
+![Output](https://github.com/piscongentine/PRODIGY_DS_3/blob/main/Screenshot%202025-01-28%20223901.png}
